@@ -8,6 +8,7 @@ com\shared\dtos\VerifyDto.class
 com\shared\dtos\CertificateRequestDto.class
 com\shared\dtos\LoanLimitDto.class
 com\shared\dtos\RequestRoleDto.class
+com\shared\dtos\SignatureDto.class
 com\shared\dtos\RoleDto.class
 com\shared\dtos\StaffPayload.class
 com\shared\dtos\SubmissionRequestDto.class
