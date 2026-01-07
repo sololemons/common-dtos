@@ -1,4 +1,7 @@
 package com.shared.dtos;
 
-public class SubmissionType {
+public enum SubmissionType {
+        QUIZ,
+        ASSIGNMENT,
+        CAT
 }

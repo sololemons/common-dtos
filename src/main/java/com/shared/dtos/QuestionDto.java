@@ -1,4 +1,4 @@
-package com.coursemanagement.dtos;
+package com.shared.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -12,5 +12,6 @@ import java.util.Set;
 public class QuestionDto {
     private Long questionId;
     private String text;
+    private int marks;
     private Set<String> options;
 }

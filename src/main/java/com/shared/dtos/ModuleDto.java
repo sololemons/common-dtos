@@ -4,6 +4,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -11,5 +13,7 @@ public class ModuleDto {
     private String week;
     private String moduleName;
     private String content;
-    private Long moduleId;
+    private int moduleId;
+    private List<QuizAssessmentDto> quizAssessmentDto;
+
 }

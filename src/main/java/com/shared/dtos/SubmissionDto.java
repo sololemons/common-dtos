@@ -12,7 +12,8 @@ import java.util.List;
 public class SubmissionDto {
         private long submissionId;
         private String studentAdmissionId;
-        private long assignmentId;
+        private long targetId;
+        private SubmissionType submissionType;
         private String className;
         private LocalDateTime submissionDate;
         private String submissionStatus;
