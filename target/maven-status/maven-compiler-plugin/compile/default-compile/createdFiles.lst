@@ -5,10 +5,12 @@ com\shared\dtos\SubmissionDto.class
 com\shared\dtos\AnswerDto.class
 com\shared\dtos\CreditResult.class
 com\shared\dtos\QuestionDto.class
+com\shared\dtos\QuizSubmissionDto.class
 com\shared\dtos\ProgressDto.class
 com\shared\dtos\StudentDto.class
 com\shared\dtos\AssignCourseDto.class
 com\shared\dtos\VerifyDto.class
+com\shared\dtos\CatSubmissionDto.class
 com\shared\dtos\CertificateRequestDto.class
 com\shared\dtos\LoanLimitDto.class
 com\shared\dtos\QuizAssessmentDto.class
