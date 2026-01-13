@@ -14,4 +14,5 @@ public class QuestionDto {
     private String text;
     private int marks;
     private Set<String> options;
+    private String correctAnswer;
 }
