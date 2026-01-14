@@ -17,7 +17,7 @@ public class GradeSubmissionEvent {
     private String studentAdmissionId;
 
     private AssessmentDetails assessmentDetails;
-    private String topic;
+    private String className;
 
     private double totalPoints;
     private double maxPoints;
@@ -29,4 +29,6 @@ public class GradeSubmissionEvent {
     private Map<String, Double> topicMastery;
 
     private LocalDateTime gradedAt;
+    private String questionKeyMapJson;
+
 }

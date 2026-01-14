@@ -37,6 +37,7 @@ com\shared\dtos\AiGradeRequest$TrueFalseQuestion.class
 com\shared\dtos\NotificationsResponse.class
 com\shared\dtos\RequestRoleDto.class
 com\shared\dtos\AiQuestionResult.class
+com\shared\dtos\MarkSubmissionGradedDto.class
 com\shared\dtos\AiCatGradeRequest$TrueFalseQuestion.class
 com\shared\dtos\RoleDto.class
 com\shared\dtos\SubmissionRequestDto.class
