@@ -1,4 +1,5 @@
-import com.shared.dtos.AssessmentQuestion;
+package com.shared.dtos;
+
 
 import java.util.List;
 

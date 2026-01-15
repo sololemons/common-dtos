@@ -9,7 +9,7 @@ import java.util.List;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class CatAssessmentResponseDto {
+public class CatAssessmentResponseDto implements AssessmentResponse {
     private String title;
     private List<QuestionDto> questions;
 }

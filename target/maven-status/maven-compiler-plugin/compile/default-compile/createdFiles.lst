@@ -1,11 +1,13 @@
 com\shared\dtos\AiGradeRequest.class
 com\shared\dtos\GradeSubmissionEvent.class
+com\shared\dtos\AssessmentQuestion.class
 com\shared\dtos\ModuleDto.class
 com\shared\dtos\GetNotificationDto.class
 com\shared\dtos\QuizAssessmentResponseDto.class
 com\shared\dtos\AnswerDto.class
 com\shared\dtos\CreditResult.class
 com\shared\dtos\ProgressDto.class
+com\shared\dtos\AssessmentResponse.class
 com\shared\dtos\StudentDto.class
 com\shared\dtos\AiCatGradeRequest$ShortAnswerQuestion.class
 com\shared\dtos\CatSubmissionDto.class
@@ -20,8 +22,10 @@ com\shared\dtos\AiCatGradeRequest$MultipleChoiceQuestion.class
 com\shared\dtos\SubmissionType.class
 com\shared\dtos\AssignmentSubmissionDto.class
 com\shared\dtos\SubmissionDto.class
+com\shared\dtos\SubmissionGradeDto.class
 com\shared\dtos\AiCatGradeRequest$CatData.class
 com\shared\dtos\AiGradeResponse.class
+com\shared\dtos\QuestionGradeDto.class
 com\shared\dtos\QuestionDto.class
 com\shared\dtos\QuizSubmissionDto.class
 com\shared\dtos\AssignCourseDto.class

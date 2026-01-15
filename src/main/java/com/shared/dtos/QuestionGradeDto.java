@@ -1,4 +1,4 @@
-package com.gradeservice.dtos;
+package com.shared.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -16,6 +16,5 @@ public class QuestionGradeDto {
     private double awardedPoints;
     private Boolean isCorrect;
     private String feedback;
-    private List<QuestionGradeDto> questionGrades; // new field
 
 }

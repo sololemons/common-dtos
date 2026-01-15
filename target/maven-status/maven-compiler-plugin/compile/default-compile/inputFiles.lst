@@ -5,6 +5,7 @@ E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssignCourseDto.jav
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\VerifyDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AiCatGradeRequest.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\CatAssessmentResponseDto.java
+E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssessmentResponse.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\ModuleDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AiGradeResponse.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\GetNotificationDto.java
@@ -15,11 +16,14 @@ E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\QuizSubmissionDto.j
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\QuestionDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\ProgressDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\QuizAssessmentResponseDto.java
+E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\SubmissionGradeDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\SubmissionDto.java
+E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\QuestionGradeDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AiQuestionResult.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\SignatureDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\StaffPayload.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\MarkSubmissionGradedDto.java
+E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssessmentQuestion.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssessmentDetails.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\NotificationsResponse.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssignmentSubmissionDto.java
