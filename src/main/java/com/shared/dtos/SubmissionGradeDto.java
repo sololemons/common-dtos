@@ -19,7 +19,7 @@ public class SubmissionGradeDto {
     private double maxPoints;
     private double percentage;
 
-    private List<QuestionGradeDto> questionGrades; // new field
+    private List<QuestionGradeDto> questionGrades;
 
 
 
