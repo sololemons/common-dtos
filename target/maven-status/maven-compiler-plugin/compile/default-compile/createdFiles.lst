@@ -35,9 +35,11 @@ com\shared\dtos\CreditResult.class
 com\shared\dtos\AssignmentFileDto.class
 com\shared\dtos\StudentDto.class
 com\shared\dtos\CatSubmissionDto.class
+com\shared\dtos\ForgotPasswordRequest.class
 com\shared\dtos\AiGradeRequest$ShortAnswerQuestion.class
 com\shared\dtos\GradedAssignmentDetailsDto.class
 com\shared\dtos\SignatureDto.class
+com\shared\dtos\ResetPasswordRequest.class
 com\shared\dtos\AiGradeRequest$QuizData.class
 com\shared\dtos\SubmissionType.class
 com\shared\dtos\QuestionGradeDto.class
