@@ -11,6 +11,7 @@ import java.util.List;
 @NoArgsConstructor
 public class QuizAssessmentDto {
     private String title;
+    private int quizId;
     private List<QuestionDto> questions;
 
 }

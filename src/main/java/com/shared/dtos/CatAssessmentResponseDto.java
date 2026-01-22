@@ -11,5 +11,6 @@ import java.util.List;
 @AllArgsConstructor
 public class CatAssessmentResponseDto implements AssessmentResponse {
     private String title;
+    private int catId;
     private List<QuestionDto> questions;
 }
