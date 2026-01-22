@@ -13,6 +13,7 @@ public class ModuleDto {
     private String week;
     private String moduleName;
     private String content;
+    private String status;
     private int moduleId;
     private List<QuizAssessmentDto> quizAssessmentDto;
 
