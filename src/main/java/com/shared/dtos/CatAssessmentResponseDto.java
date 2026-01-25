@@ -12,5 +12,6 @@ import java.util.List;
 public class CatAssessmentResponseDto implements AssessmentResponse {
     private String title;
     private int catId;
+    private String courseName;
     private List<QuestionDto> questions;
 }

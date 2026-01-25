@@ -12,5 +12,6 @@ public class AssignmentDto {
     private String assignmentName;
     private String assignmentDescription;
     private String dueDate;
+    private String courseName;
     private Long totalMarks;
 }

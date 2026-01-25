@@ -18,6 +18,8 @@ public class SubmissionGradeDto {
     private double totalPoints;
     private double maxPoints;
     private double percentage;
+    private String feedback;
+    private String gradeAt;
 
     private List<QuestionGradeDto> questionGrades;
 

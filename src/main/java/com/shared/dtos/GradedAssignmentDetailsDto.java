@@ -12,7 +12,6 @@ public class GradedAssignmentDetailsDto {
     private String studentAdmissionId;
     private String assignmentDescription;
     private String assignmentName;
-    private LocalDateTime submittedAt;
 
     private List<AssignmentFileDto> files;
 
@@ -21,5 +20,4 @@ public class GradedAssignmentDetailsDto {
     private Double percentage;
     private String feedback;
     private String gradedAt;
-
 }

@@ -4,15 +4,14 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class QuizAssessmentResponseDto implements AssessmentResponse {
-    private String title;
-    private int quizId;
+public class GradedRequestDto {
+    private String studentAdmissionId;
     private String courseName;
-    private List<QuestionDto> questions;
+    private String className;
+    private String message;
+    private String quizName;
 
 }

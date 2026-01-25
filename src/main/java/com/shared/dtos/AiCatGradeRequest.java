@@ -1,5 +1,6 @@
 package com.shared.dtos;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
 import lombok.AllArgsConstructor;
@@ -19,11 +20,12 @@ public class AiCatGradeRequest {
     private String submissionId;
     private String studentId;
 
-    private String catId;
+    private String quizId;
 
     private String topic;
 
-    private CatData catData;
+    @JsonProperty("quiz_data")
+    private QuizData catData;
 
     private Map<String, String> studentAnswers;
 
@@ -32,8 +34,8 @@ public class AiCatGradeRequest {
     @NoArgsConstructor
     @AllArgsConstructor
     @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy.class)
-    public static class CatData {
-        private String catId;
+    public static class QuizData {
+        private String quizId;
         private LocalDateTime generatedAt;
         private String difficultyLevel;
         private int totalQuestions;

@@ -14,7 +14,6 @@ com\shared\dtos\AiCatGradeRequest$MultipleChoiceQuestion.class
 com\shared\dtos\AssignmentSubmissionDto.class
 com\shared\dtos\SubmissionDto.class
 com\shared\dtos\SubmissionGradeDto.class
-com\shared\dtos\AiCatGradeRequest$CatData.class
 com\shared\dtos\AiGradeResponse.class
 com\shared\dtos\QuestionDto.class
 com\shared\dtos\AssignCourseDto.class
@@ -36,6 +35,7 @@ com\shared\dtos\AssignmentFileDto.class
 com\shared\dtos\StudentDto.class
 com\shared\dtos\CatSubmissionDto.class
 com\shared\dtos\ForgotPasswordRequest.class
+com\shared\dtos\AiCatGradeRequest$QuizData.class
 com\shared\dtos\AiGradeRequest$ShortAnswerQuestion.class
 com\shared\dtos\GradedAssignmentDetailsDto.class
 com\shared\dtos\SignatureDto.class
@@ -49,6 +49,7 @@ com\shared\dtos\NotificationRequestDto.class
 com\shared\dtos\CatAssessmentResponseDto.class
 com\shared\dtos\CertificateRequestDto.class
 com\shared\dtos\QuizAssessmentDto.class
+com\shared\dtos\GradedRequestDto.class
 com\shared\dtos\AiQuestionResult.class
 com\shared\dtos\AiCatGradeRequest$TrueFalseQuestion.class
 com\shared\dtos\SubmissionRequestDto.class
