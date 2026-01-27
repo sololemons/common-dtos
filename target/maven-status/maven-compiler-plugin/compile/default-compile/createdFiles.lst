@@ -16,6 +16,7 @@ com\shared\dtos\SubmissionDto.class
 com\shared\dtos\SubmissionGradeDto.class
 com\shared\dtos\AiGradeResponse.class
 com\shared\dtos\QuestionDto.class
+com\shared\dtos\AllSubmissionsDto.class
 com\shared\dtos\AssignCourseDto.class
 com\shared\dtos\VerifyDto.class
 com\shared\dtos\AiGradeResponse$QuestionResult.class

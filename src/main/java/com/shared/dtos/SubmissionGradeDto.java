@@ -20,6 +20,8 @@ public class SubmissionGradeDto {
     private double percentage;
     private String feedback;
     private String gradeAt;
+    private String submissionType;
+
 
     private List<QuestionGradeDto> questionGrades;
 
