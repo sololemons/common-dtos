@@ -17,4 +17,5 @@ public class CertificateRequestDto {
     private Long courseId;
     private String courseName;
     private LocalDate completionDate;
+    private String certificateType;
 }

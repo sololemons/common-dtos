@@ -7,7 +7,12 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class CompletedCatsAndAssignments {
-    private String noOfCompletedCatsAndAssignments;
-    private String noOfCatsAndAssignments;
-}
+public class CertificateDto {
+
+        private String admissionId;
+        private String courseName;
+        private String certificateFileName;
+
+    }
+
+

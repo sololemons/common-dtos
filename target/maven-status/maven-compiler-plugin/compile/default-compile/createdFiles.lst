@@ -1,7 +1,11 @@
 com\shared\dtos\AiGradeRequest.class
 com\shared\dtos\GradeSubmissionEvent.class
 com\shared\dtos\AssessmentQuestion.class
+com\shared\dtos\CourseAssessmentSummaryDto.class
 com\shared\dtos\GetNotificationDto.class
+com\shared\dtos\CertificateDto.class
+com\shared\dtos\CatInfoDto.class
+com\shared\dtos\CompletedCatsAndAssignments.class
 com\shared\dtos\ProgressDto.class
 com\shared\dtos\AssessmentResponse.class
 com\shared\dtos\AiCatGradeRequest$ShortAnswerQuestion.class
@@ -18,10 +22,12 @@ com\shared\dtos\AiGradeResponse.class
 com\shared\dtos\QuestionDto.class
 com\shared\dtos\AllSubmissionsDto.class
 com\shared\dtos\AssignCourseDto.class
+com\shared\dtos\CheckCompletedCatsAndAssignments.class
 com\shared\dtos\VerifyDto.class
 com\shared\dtos\AiGradeResponse$QuestionResult.class
 com\shared\dtos\AssignmentDto.class
 com\shared\dtos\LoanLimitDto.class
+com\shared\dtos\AssignmentInfoDto.class
 com\shared\dtos\AiGradeRequest$TrueFalseQuestion.class
 com\shared\dtos\NotificationsResponse.class
 com\shared\dtos\RequestRoleDto.class
@@ -33,6 +39,7 @@ com\shared\dtos\QuizAssessmentResponseDto.class
 com\shared\dtos\AnswerDto.class
 com\shared\dtos\CreditResult.class
 com\shared\dtos\AssignmentFileDto.class
+com\shared\dtos\CertificateConditionsDto.class
 com\shared\dtos\StudentDto.class
 com\shared\dtos\CatSubmissionDto.class
 com\shared\dtos\ForgotPasswordRequest.class

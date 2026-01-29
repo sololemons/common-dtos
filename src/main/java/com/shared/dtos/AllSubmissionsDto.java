@@ -13,4 +13,6 @@ public class AllSubmissionsDto {
     private String submissionDate;
     private String submissionStatus;
     private String submissionType;
+    private String targetId;
+    private String submissionId;
 }
