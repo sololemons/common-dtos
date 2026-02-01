@@ -18,10 +18,12 @@ E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssessmentDetails.j
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssignmentSubmissionDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssignmentSubmissionResponseDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\CatSubmissionDto.java
+E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\CriticalGapsDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AiGradeRequest.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\CertificateConditionsDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\StudentDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\CatInfoDto.java
+E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\RecommendationInputDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\NotificationDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AnswerDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssignCourseDto.java
@@ -40,6 +42,7 @@ E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\SubmissionGradeDto.
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\SubmissionDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\StaffPayload.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\AssignmentGradeResponseDto.java
+E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\RecommendationAiOutputDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\CertificateDto.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\NotificationsResponse.java
 E:\PesaInstantLoan\common-dtos\src\main\java\com\shared\dtos\ForgotPasswordRequest.java
